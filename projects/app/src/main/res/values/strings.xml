@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">B19DCCN333</string>
+    <array name="phep">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </array>
+    <string-array name="alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>...</item>
+    </string-array>
+</resources>
